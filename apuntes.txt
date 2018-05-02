@@ -1,0 +1,30 @@
+
+Paquetes de Node Js
+
+    INSTALAR
+            Express
+                        npm install express --save
+            bcrypt 
+                        npm install bcrypt-nodejs --save
+            bodyparser
+                        npm install body-parser --save 
+            connect-multiparty
+                        npm install conect-multiparty --save 
+            JWT - Autentificaión Por Token 
+                        npm install jwt-simple --save
+            moment 
+                        npm install moment --save
+            mongoose-pagination
+                        npm install mongoose-pagination --save
+            nodemon
+                    npm install nodemon --save-dev
+
+    DESINSTALAR 
+
+        npm uninstall mongoose --save 
+
+
+
+Models
+
+        Crear todos los archivos de las clase de nuestro diagrama entidad relación.
