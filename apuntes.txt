@@ -28,3 +28,15 @@ Paquetes de Node Js
 Models
 
         Crear todos los archivos de las clase de nuestro diagrama entidad relación.
+
+
+
+
+Software 
+
+        Node
+        Mongodb
+        npm
+        visual code studio
+        git
+        
